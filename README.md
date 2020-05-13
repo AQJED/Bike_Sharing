@@ -1,2 +1,2 @@
 # Bike_Sharing
-In this project, I build a neural network and use it to predict daily bike rental ridership.
+Built a neural network from scratch and used it to predict daily bike rental ridership. This was part of Udacity deep learning nanodegree. For this project, I used numpy, pandas and matplot libraries only. For the network built, I implemented both the forward pass and backwards pass through the network. The network has two layers, a hidden layer and an output layer. The hidden layer uses the sigmoid function for activations.
